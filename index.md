@@ -1,3 +1,5 @@
+![](http://icons.iconarchive.com/icons/mfayaz/color-stroked/64/linked-in-icon.png)(https://www.linkedin.com/in/ilya-leanovich-a51a25180/)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/IlyaLeanovich/ilyaleanovich.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
