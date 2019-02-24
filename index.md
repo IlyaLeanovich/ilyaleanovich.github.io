@@ -1,4 +1,4 @@
-![](http://icons.iconarchive.com/icons/mfayaz/color-stroked/64/linked-in-icon.png)(https://www.linkedin.com/in/ilya-leanovich-a51a25180/)
+![GitHub Logo](/images/linked-in-icon.png)
 
 ## Welcome to GitHub Pages
 
