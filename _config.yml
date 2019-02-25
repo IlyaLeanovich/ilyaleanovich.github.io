@@ -1,9 +1,3 @@
 theme: jekyll-theme-architect
 title: Leanovich Ilya
-
-metadata:
-  'twitter:card' : summary
-  'twitter:site' : @flickr
-  'twitter:title' : Your Page Title
-  'twitter:description' : Your page description can contain summary information
-  'twitter:image' : https://farm6.staticflickr.com/5510/14338202952_93595258ff_z.jpg
+headline: Portfolio
