@@ -1,15 +1,11 @@
 [![Linked](images/Web-Linked-in-alt-Metro-icon.png)](https://www.linkedin.com/in/ilya-leanovich-a51a25180/)
 [![VKontakte](images/vk-icon.png)](https://vk.com/leanovichilya)
 [![Facebook](images/facebook-icon.png)](https://www.facebook.com/leanovichilya)
-***
+<hr>
 
 
-
-[1]: http://google.com/        "Google"
-[2]: http://search.yahoo.com/  "Yahoo Search"
-[3]: http://search.msn.com/    "MSN Search"
 You can use the [editor on GitHub](https://github.com/IlyaLeanovich/ilyaleanovich.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files
 
 ### Markdown
 
