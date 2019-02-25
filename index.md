@@ -1,8 +1,6 @@
 [![Linked](images/Web-Linked-in-alt-Metro-icon.png)](https://www.linkedin.com/in/ilya-leanovich-a51a25180/)
 
-Page
 ---
-## Leanovich Ilya
 
 
 
