@@ -1,5 +1,4 @@
 <link href="styles/style.css" rel="stylesheet" type="text/css">
-<div align="center">
 
 [![Linked](images/Web-Linked-in-alt-Metro-icon.png)](https://www.linkedin.com/in/ilya-leanovich-a51a25180/)
 [![VKontakte](images/vk-icon.png)](https://vk.com/leanovichilya)
@@ -8,7 +7,7 @@
 </div>
 <hr>
 
-<h2>About me</h2>
+<h2 class="about">About me</h2>
 <hr>
 
 You can use the [editor on GitHub](https://github.com/IlyaLeanovich/ilyaleanovich.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
