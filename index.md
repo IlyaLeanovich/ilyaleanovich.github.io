@@ -1,12 +1,9 @@
-<link href="styles/style.css" rel="stylesheet" type="text/css">
-
 [![Linked](images/Web-Linked-in-alt-Metro-icon.png)](https://www.linkedin.com/in/ilya-leanovich-a51a25180/)
 [![VKontakte](images/vk-icon.png)](https://vk.com/leanovichilya)
 [![Facebook](images/facebook-icon.png)](https://www.facebook.com/leanovichilya)
 
-<hr>
-
-<h2 class="about">About me</h2>
+<hr width="12%">
+<h2 align="center">About me</h2>
 <hr width="12%">
 
 You can use the [editor on GitHub](https://github.com/IlyaLeanovich/ilyaleanovich.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
