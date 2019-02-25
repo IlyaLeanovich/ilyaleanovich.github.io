@@ -6,7 +6,7 @@
 
 <hr>
 
-<h2>About me</h2>
+<h2 class="about">About me</h2>
 <hr>
 
 You can use the [editor on GitHub](https://github.com/IlyaLeanovich/ilyaleanovich.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
