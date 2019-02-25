@@ -2,7 +2,7 @@
 [![VKontakte](images/vk-icon.png)](https://vk.com/leanovichilya)
 [![Facebook](images/facebook-icon.png)](https://www.facebook.com/leanovichilya)
 
-<hr size="6">
+<hr height="6">
 <h2 align="center">About me</h2>
 <hr>
 
