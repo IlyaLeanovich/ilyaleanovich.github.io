@@ -2,9 +2,9 @@
 [![VKontakte](images/vk-icon.png)](https://vk.com/leanovichilya)
 [![Facebook](images/facebook-icon.png)](https://www.facebook.com/leanovichilya)
 
-<hr width="12%">
+<hr size="6">
 <h2 align="center">About me</h2>
-<hr width="12%">
+<hr>
 
 You can use the [editor on GitHub](https://github.com/IlyaLeanovich/ilyaleanovich.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files
