@@ -4,10 +4,9 @@
 [![VKontakte](images/vk-icon.png)](https://vk.com/leanovichilya)
 [![Facebook](images/facebook-icon.png)](https://www.facebook.com/leanovichilya)
 
-</div>
 <hr>
 
-<h2 class="about">About me</h2>
+<h2>About me</h2>
 <hr>
 
 You can use the [editor on GitHub](https://github.com/IlyaLeanovich/ilyaleanovich.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
