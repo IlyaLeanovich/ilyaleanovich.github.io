@@ -1,9 +1,6 @@
-<a href="https://www.facebook.com/leanovichilya" align="center"><img src="images/facebook-icon.png"></a>
-<a href="https://www.facebook.com/leanovichilya"><img src="images/facebook-icon.png"></a>
-
-[![Linked](images/Web-Linked-in-alt-Metro-icon.png)](https://www.linkedin.com/in/ilya-leanovich-a51a25180/)
-[![VKontakte](images/vk-icon.png)](https://vk.com/leanovichilya)
-[![Facebook](images/facebook-icon.png)](https://www.facebook.com/leanovichilya)
+<a href="https://www.linkedin.com/in/ilya-leanovich-a51a25180/" target="_blank" alt="Linkedin"><img src="images/Web-Linked-in-alt-Metro-icon.png"></a>
+<a href="https://vk.com/leanovichilya" target="_blank" alt="vkontakte"><img src="images/vk-icon.png"></a>
+<a href="https://www.facebook.com/leanovichilya" target="_blank" alt="facebook"><img src="images/facebook-icon.png"></a>
 
 <hr>
 <h2 align="center">About me</h2>
