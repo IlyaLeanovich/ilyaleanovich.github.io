@@ -1,7 +1,10 @@
+<div style="align: center;">
+
 [![Linked](images/Web-Linked-in-alt-Metro-icon.png)](https://www.linkedin.com/in/ilya-leanovich-a51a25180/)
 [![VKontakte](images/vk-icon.png)](https://vk.com/leanovichilya)
 [![Facebook](images/facebook-icon.png)](https://www.facebook.com/leanovichilya)
 
+</div>
 <hr>
 <h2 align="center">About me</h2>
 <hr>
