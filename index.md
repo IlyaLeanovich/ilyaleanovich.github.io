@@ -16,8 +16,7 @@ I want to further develop my programming skills, participate in interesting proj
 <h2 align="center">Interest</h2>
 <hr>
 
-<h4 align="left">I like:</h4>
-
+<h4>I like:</h4>
 - Read computer news, literature
 - Play and watch football
 - Access to the gym
@@ -30,7 +29,7 @@ I want to further develop my programming skills, participate in interesting proj
 
 <hr>
 <h2 align="center">My project</h2>
-<hr style="border-width: 10;">
+<hr>
 
 <h3 align="center">PadawansTask</h3>
 <ul>
