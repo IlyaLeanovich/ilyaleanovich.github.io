@@ -33,6 +33,7 @@ I want to further develop my programming skills, participate in interesting proj
 <h3 align="center">PadawansTask</h3>
 <ul>
     <li><a href="https://github.com/IlyaLeanovich/FancyCalc" target="_blank">FancyCalc</a></li>
+    <li><a href="https://github.com/IlyaLeanovich/TicTacToe" target="_blank">TicTacToe</a></li>
     <li><a href="https://github.com/IlyaLeanovich/PadawansTask1" target="_blank">PadawansTask1</a></li>
     <li><a href="https://github.com/IlyaLeanovich/PadawansTask2" target="_blank">PadawansTask2</a></li>
     <li><a href="https://github.com/IlyaLeanovich/PadawansTask3" target="_blank">PadawansTask3</a></li>
