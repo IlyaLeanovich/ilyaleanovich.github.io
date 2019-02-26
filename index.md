@@ -6,7 +6,7 @@
 <h2 align="center">About me</h2>
 <hr>
 
-I work in accounting service. In parallel, I study at the Belarusian state University of Radioelectronics 
+My name is Ilya. I work in accounting service. In parallel, I study at the Belarusian state University of Radioelectronics 
 on the 4th course of distance learning in the specialty "programmable mobile systems". 
 I have knowledge in the field of testing, took courses in software testing. 
 Independently studied and continue to improve their skills on technologies such as HTML5, CSS, MySQL 8, C#, Java, JavaScript.
@@ -17,6 +17,7 @@ I want to further develop my programming skills, participate in interesting proj
 <hr>
 
 <h4 align="left">I like:</h4>
+
 - Read computer news, literature
 - Play and watch football
 - Access to the gym
@@ -29,7 +30,7 @@ I want to further develop my programming skills, participate in interesting proj
 
 <hr>
 <h2 align="center">My project</h2>
-<hr style="size: 10;">
+<hr style="height: 10;">
 
 <h3 align="center">PadawansTask</h3>
 <ul>
