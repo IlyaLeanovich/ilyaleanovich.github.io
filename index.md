@@ -33,8 +33,15 @@ I want to further develop my programming skills, participate in interesting proj
 
 <h3 align="center">PadawansTask</h3>
 <ul>
+    <li><a href="https://github.com/IlyaLeanovich/FancyCalc" target="_blank">FancyCalc</a></li>
     <li><a href="https://github.com/IlyaLeanovich/PadawansTask1" target="_blank">PadawansTask1</a></li>
     <li><a href="https://github.com/IlyaLeanovich/PadawansTask2" target="_blank">PadawansTask2</a></li>
     <li><a href="https://github.com/IlyaLeanovich/PadawansTask3" target="_blank">PadawansTask3</a></li>
     <li><a href="https://github.com/IlyaLeanovich/PadawansTask4" target="_blank">PadawansTask4</a></li>
+    <li><a href="https://github.com/padawanstask/PadawansTask5" target="_blank">PadawansTask5</a></li>
+    <li><a href="https://github.com/IlyaLeanovich/PadawansTask7" target="_blank">PadawansTask7</a></li>
+    <li><a href="https://github.com/IlyaLeanovich/PadawansTask10" target="_blank">PadawansTask10</a></li>
+    <li><a href="https://github.com/IlyaLeanovich/PadawansTask11" target="_blank">PadawansTask11</a></li>
+    <li><a href="https://github.com/IlyaLeanovich/PadawansTask12" target="_blank">PadawansTask12</a></li>
+    <li><a href="https://github.com/IlyaLeanovich/PadawansTask13" target="_blank">PadawansTask13</a></li>
 </ul>
