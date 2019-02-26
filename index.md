@@ -30,7 +30,7 @@ I want to further develop my programming skills, participate in interesting proj
 
 <hr>
 <h2 align="center">My project</h2>
-<hr style="height: 10;">
+<hr style="border-width: 10;">
 
 <h3 align="center">PadawansTask</h3>
 <ul>
