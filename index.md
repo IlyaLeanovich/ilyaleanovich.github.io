@@ -6,10 +6,7 @@
 <h2 align="center">About me</h2>
 <hr>
 
-<p slign="justify">My name is Ilya. I work in accounting service. In parallel, 
-I study at the Belarusian State University of Informatics and Radioelectronics 
-on the 4th course of distance learning in the specialty "programmable mobile systems". 
-I have knowledge in the field of testing, took courses in software testing. 
+<p slign="justify">My name is Ilya. I work in accounting service. In parallel, I study at the Belarusian State University of Informatics and Radioelectronics on the 4th course of distance learning in the specialty "programmable mobile systems". I have knowledge in the field of testing, took courses in software testing. 
 Independently studied and continue to improve their skills on technologies such as HTML5, CSS, MySQL 8, C#, Java, JavaScript.
 I want to further develop my programming skills, participate in interesting projects and master new technologies.</p>
 
