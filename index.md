@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/ilya-leanovich-a51a25180/" target="_blank" alt="Linkedin"><img src="images/Web-Linked-in-alt-Metro-icon.png"></a>
+<a href="https://www.linkedin.com/in/leanovichilya/" target="_blank" alt="Linkedin"><img src="images/Web-Linked-in-alt-Metro-icon.png"></a>
 <a href="https://vk.com/leanovichilya" target="_blank" alt="vkontakte"><img src="images/vk-icon.png"></a>
 <a href="https://www.facebook.com/leanovichilya" target="_blank" alt="facebook"><img src="images/facebook-icon.png"></a>
 
