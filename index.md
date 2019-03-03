@@ -44,3 +44,9 @@ I want to further develop my programming skills, participate in interesting proj
     <li><a href="https://github.com/IlyaLeanovich/PadawansTask12" target="_blank">PadawansTask12</a></li>
     <li><a href="https://github.com/IlyaLeanovich/PadawansTask13" target="_blank">PadawansTask13</a></li>
 </ul>
+
+<hr>
+<h2 align="center">Codewars</h2>
+<hr>
+
+<a href="https://www.codewars.com/users/Ilya_Leanovich/stats">My Codewars profile</a>
